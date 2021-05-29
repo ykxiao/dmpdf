@@ -21,6 +21,7 @@ This version should be considered obsolete, new projects should use the new vers
 ## Description
 
 PHP library for generating PDF documents on-the-fly.
+针对德木金融优化
 
 ### Main Features:
 * no external libraries are required for the basic functions;
